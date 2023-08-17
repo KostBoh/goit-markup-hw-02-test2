@@ -1,0 +1,10 @@
+p {
+    background-color: yellow;
+}
+
+body {
+    background-color: blueviolet;
+}
+.list {
+    list-style: none;
+}
